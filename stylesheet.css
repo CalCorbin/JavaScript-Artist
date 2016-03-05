@@ -1,0 +1,5 @@
+canvas {
+    border: 1px dotted black;
+    background-image: url(pretty.jpg);
+	background-size: cover;
+}
